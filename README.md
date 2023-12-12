@@ -1,2 +1,4 @@
 # bg_conn_sr
- notebooks showing results for bg connectivity and selective recruitment
+ Uses 3 modules: Functional Fusion, cortico_cereb_connectivity, and selective_recruitment
+ contains notebooks using functions from the three modules above 
+ 
